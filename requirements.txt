@@ -1,0 +1,6 @@
+langchain
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+google-generativeai
