@@ -4,3 +4,4 @@ tiktoken
 faiss-cpu
 protobuf
 google-generativeai
+langchain-community
