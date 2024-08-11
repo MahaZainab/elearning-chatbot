@@ -7,7 +7,6 @@ from langchain.chains import RetrievalQA
 import os
 
 api_key = os.getenv('API_KEY')
-#api_key = 'AIzaSyDXEbBee1sLuyNKRkLMAGlwiupw_TfqsgE'
 
 # Create Google Palm LLM model
 llm = GooglePalm(google_api_key=api_key, temperature=0.2)
