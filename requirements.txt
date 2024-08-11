@@ -1,10 +1,11 @@
 langchain
 streamlit
 tiktoken
-faiss-cpu
+faiss-gpu
 protobuf
 google-generativeai
 langchain-community
 InstructorEmbedding
 transformers
 torch
+tiktoken  
