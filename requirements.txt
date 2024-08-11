@@ -1,7 +1,7 @@
 langchain
 streamlit
 tiktoken
-faiss-gpu
+faiss-cpu
 protobuf
 google-generativeai
 langchain-community
