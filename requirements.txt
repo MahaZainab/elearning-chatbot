@@ -5,3 +5,6 @@ faiss-cpu
 protobuf
 google-generativeai
 langchain-community
+InstructorEmbedding
+transformers
+torch
