@@ -1,4 +1,4 @@
-# elearning-chatbot
+# E-learning-Chatbot
 
 ## Udemy Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
 
